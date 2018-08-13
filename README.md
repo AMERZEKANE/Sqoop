@@ -1,1 +1,1 @@
-# Sqoop
+# run-sqoop.sh
