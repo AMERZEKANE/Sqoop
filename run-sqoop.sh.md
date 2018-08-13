@@ -1,4 +1,4 @@
-# Sqoop
+# run-sqoop.sh
 
 #!/bin/bash
 
