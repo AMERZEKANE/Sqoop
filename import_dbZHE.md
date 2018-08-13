@@ -1,4 +1,4 @@
-# run-sqoop.sh
+# import_dbZHE.sh
 
 #!/bin/bash
 
